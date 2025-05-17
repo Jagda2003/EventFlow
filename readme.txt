@@ -1,4 +1,4 @@
-Free Download Source Code "Event Registration and Attendance System "
+"EventFlow: Event Registration and Attendance System"
 
 FIRST Download
 
@@ -28,11 +28,3 @@ USER LOGIN:
 
 create your own
 
-
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
-
-***** LEAVE A COMMENT IF YOU LOVED OUR WORK  AND SUBSCRIBE OUR CHANNEL *****
-
-***** FOR MORE PROJECTS :- https://1sourcecodr.blogspot.com/ *****
-
-#THANK YOU FOR DOWNLOADING
